@@ -8,4 +8,5 @@ export const settings = {
         speedX: {min: 1, max: 4},
         speedY: {min: 1, max: 6},
     }
+
 }

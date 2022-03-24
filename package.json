@@ -13,9 +13,6 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/hepl-mmi/let-it-snow/issues"
-  },
   "homepage": "https://github.com/hepl-mmi/let-it-snow#readme",
   "devDependencies": {
     "browser-sync": "^2.27.9",
